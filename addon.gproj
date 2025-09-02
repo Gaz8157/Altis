@@ -1,0 +1,8 @@
+GameProject {
+ ID "Altis"
+ GUID "66432BE1463E9978"
+ TITLE "Altis"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

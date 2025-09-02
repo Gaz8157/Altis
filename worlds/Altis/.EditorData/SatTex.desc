@@ -1,0 +1,7 @@
+SatGenDescClass {
+ FileName "C:/Users/marka/Pictures/Screenshots/Altis.png"
+ sRGBOutput 0
+ RenderRoads 1
+ Interpolation bilinear
+ RoadsAA "8x"
+}

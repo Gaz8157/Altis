@@ -1,0 +1,7 @@
+HeightMapImportDescClass {
+ FileName "C:/Users/marka/Downloads/gtt_heightmap (2) (1)/gtt_heightmap/Lemno_VOL.png"
+ Flags 5
+ MinHeight -1000000
+ ResampleMinHeight -2
+ ResampleMaxHeight 300
+}
