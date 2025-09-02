@@ -1,0 +1,6 @@
+SCR_DestructibleBuildingEntity : "{1B68F3EE279C97A1}Prefabs/Structures/Commercial/Pubs/PubVillage_E_2L01/PubVillage_E_2L01_V1.et" {
+ coords 9373.94 0.432 7494.76
+}
+SCR_DestructibleBuildingEntity : "{D13E0BC1C8B07819}Prefabs/Structures/Commercial/Pubs/PubVillage_E_2L01/PubVillage_E_2L01_V5_Mortonka.et" {
+ coords 9404.925 2.237 7490.802
+}
