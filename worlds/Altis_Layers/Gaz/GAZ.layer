@@ -1,0 +1,17 @@
+SplineShapeEntity {
+ coords 9708.466 9.605 7754.742
+ Points {
+  ShapePoint "{6645481F5ED54A19}" {
+   Position 0 0.001 0
+  }
+  ShapePoint "{6645481F5ED55140}" {
+   Position -84.785 -3.082 -61.298
+  }
+  ShapePoint "{6645481F61D7C346}" {
+   Position -205.699 -5.982 -157.038
+  }
+  ShapePoint "{6645481F611A17E1}" {
+   Position -346.659 -9.12 -305.438
+  }
+ }
+}
