@@ -1,0 +1,102 @@
+$grp SCR_DestructibleBuildingEntity : "{9B69E8736502C4B2}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01/ConcreteBridge_01_Narrow_PillarSmall.et" {
+ {
+  coords 8602.778 0.803 7584.194
+  angleY -78.896
+ }
+ {
+  coords 8604.882 0.803 7594.911
+  angleY -78.896
+ }
+ {
+  coords 8606.868 0.803 7605.037
+  angleY -78.896
+ }
+ {
+  coords 8608.976 0.803 7615.769
+  angleY -78.896
+ }
+ {
+  coords 8611.188 0.803 7627.04
+  angleY -78.896
+ }
+ {
+  coords 8613.421 0.803 7638.417
+  angleY -78.896
+ }
+ {
+  coords 8615.89 0.803 7650.999
+  angleY -78.896
+ }
+ {
+  coords 8618.008 0.803 7661.789
+  angleY -78.896
+ }
+ {
+  coords 8620.249 0.803 7673.209
+  angleY -78.896
+ }
+ {
+  coords 8622.426 0.803 7684.301
+  angleY -78.896
+ }
+ {
+  coords 8624.354 0.803 7694.129
+  angleY -78.896
+ }
+ {
+  coords 8626.455 0.803 7704.837
+  angleY -78.896
+ }
+ {
+  coords 8628.271 0.803 7714.09
+  angleY -78.896
+ }
+ {
+  coords 8629.944 0.803 7722.613
+  angleY -78.896
+ }
+ {
+  coords 8631.716 0.803 7731.638
+  angleY -78.896
+ }
+ {
+  coords 8634.288 0.803 7744.743
+  angleY -78.896
+ }
+ {
+  coords 8636.421 0.803 7755.609
+  angleY -78.896
+ }
+ {
+  coords 8638.521 0.803 7766.308
+  angleY -78.896
+ }
+ {
+  coords 8640.925 0.803 7778.557
+  angleY -78.896
+ }
+ {
+  coords 8642.967 0.803 7788.963
+  angleY -78.896
+ }
+ {
+  coords 8645.082 0.803 7799.741
+  angleY -78.896
+ }
+ {
+  coords 8647.1 0.803 7810.02
+  angleY -78.896
+ }
+ {
+  coords 8649.36 0.803 7821.543
+  angleY -78.896
+ }
+ {
+  coords 8651.298 0.803 7831.415
+  angleY -78.896
+ }
+ {
+  coords 8653.438 0.803 7842.313
+  angleY -78.896
+ }
+}
