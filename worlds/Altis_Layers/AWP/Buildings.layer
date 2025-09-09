@@ -1,3 +1,43 @@
+SCR_DestructibleBuildingEntity : "{5ECE42250DAB009E}PrefabLibrary/Structures/Houses/House_Prefab_2I01/House_Prefab_2I01.et" {
+ coords 1505.006 2.098 5310.323
+ angleY 128.797
+}
+$grp SCR_DestructibleBuildingEntity : "{7F8DF0A1D211BDFC}PrefabLibrary/Structures/Houses/House_Village_E_1L03t.et" {
+ {
+  coords 1756.719 1.636 5006.61
+  angleY -94.449
+ }
+ {
+  coords 1765.914 1.978 5130.555
+  angleY -95.464
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{8606D888D71A206A}PrefabLibrary/Structures/Houses/House_Village_E_1I02.et" {
+ {
+  coords 1762.388 0.236 5180.232
+  angleY 60.094
+ }
+ {
+  coords 1846.479 1.769 5196.446
+  angleY 35.606
+ }
+ {
+  coords 1686.44 0.012 5118.843
+  angleY -154.949
+ }
+ {
+  coords 1737.224 1.014 5083.604
+ }
+ {
+  coords 1659.725 -0.001 5069.086
+ }
+ {
+  coords 1637.821 1.355 5129.496
+ }
+ {
+  coords 1683.535 -0 5190.51
+ }
+}
 $grp SCR_DestructibleBuildingEntity : "{9B69E8736502C4B2}Prefabs/Structures/Infrastructure/Bridges/ConcreteBridge_01/ConcreteBridge_01_Narrow_PillarSmall.et" {
  {
   coords 8602.778 0.803 7584.194
@@ -98,5 +138,32 @@ $grp SCR_DestructibleBuildingEntity : "{9B69E8736502C4B2}Prefabs/Structures/Infr
  {
   coords 8653.438 0.803 7842.313
   angleY -78.896
+ }
+}
+$grp SCR_DestructibleBuildingEntity : "{BB32FDB0A276A95D}PrefabLibrary/Structures/Houses/House_Village_E_1I01.et" {
+ {
+  coords 1707.257 -0.001 5189.191
+  angleY 162.267
+ }
+ {
+  coords 1740.214 -0.088 5164.487
+  angleY 43.988
+ }
+ {
+  coords 1703.406 1.245 4986.875
+  angleZ -2.346
+ }
+ {
+  coords 1680.524 1.155 4946.997
+ }
+ {
+  coords 1727.384 0.465 5112.816
+  angleY -75.455
+ }
+ {
+  coords 1633.526 1.148 5107.066
+ }
+ {
+  coords 1599.819 2.927 5066.812
  }
 }
